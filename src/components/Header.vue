@@ -3,7 +3,7 @@
     <div class="nav-bar">
       <router-link to="/">About me</router-link>
       <router-link to="/game-projects">Projects</router-link>
-      <!--<router-link to="/other-projects">Other things</router-link>-->
+      <router-link to="/other-projects">GameJams</router-link>
       <router-link to="/resume">Resume</router-link>
       <router-link to="/contact">Contact</router-link>
     </div>

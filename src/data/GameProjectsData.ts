@@ -12,7 +12,7 @@ export default [
     </div>
 
     <div class="paragraph">
-        Main features :
+        Main features I worked on:
         <ul>
         <li>Enemy spawning</li>
         <li>Turn based combat system</li>
@@ -28,81 +28,61 @@ export default [
 
         </ul>
     </div>
+    <div class="paragraph">
+    <div class="notice">
+        Windows build available <a href="https://uowmgames.itch.io/the-7th-seal" target="_blank">here</a>.
+    </div>
+    </div>
 
     `, "#23bd69", true),
-    new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
+
+    new ProjectData("project-2", "Rapture Reign", "img/projects/RRsnippet.gif", `
     <div class="paragraph">
-        <strong>Optimistic Chubby Blog</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@adonyi-gabor-604571">Adonyi Gábor</a>.
+        <strong>Rapture Reign</strong> is a 3D Action Boss-rush mobile game, where I took a different role from the gameplay programmer to be a UI/UX programmer.
+        <br/> It is inspired by "Monster Hunter" and "Infinity Blade".
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <img src="img/projects/GPS2snippet.gif" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
-        Main features :
+        Main features I worked on:
         <ul>
-        <li>Enemy spawning</li>
-        <li>Turn based combat system</li>
-        <li>Locking cards at turn end</li>
-        <li>Each and every special card passive</li>
-        <li>Randomly generated rooms and map progression</li>
-        <li>Character selection and their individual abilities</li>
-        <li>Cutscenes</li>
-        <li>Shop</li>
-        <li>Rest stops which act as save points</li>
-        <li>Boss mechanics</li>
-        <li>And finally the newly added burn/discard mechanic</li>
+        <li>Buttons for all screens</li>
+        <li>Making sure everything is within the safe area for all devices</li>
+        <li>Working with the environment artist to produce the backgrounds</li>
+        <li>All transitions</li>
+        <li>All Battle UI</li>
+        <li>Dialogue</li>
+        <li>All the different screens in the main menu</li>
         </ul>
     </div>
 
     <div class="paragraph">
     <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-    </div>
-    </div>
+        Android build available <a href="https://uowmgames.itch.io/rapture-reign" target="_blank">here</a>.
+    </div>`, "#5a78af"),
 
-    <div class="paragraph center">
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Singing Addict Screenshot" />
-    </div>
-    `, "#5a78af"),
-    new ProjectData("project-3", "Drawing Overload", "img/projects/project-3-icon.png", `
+    new ProjectData("project-3", "The Generational Dream (W.I.P)", "img/projects/TGDsnippet.gif", `
     <div class="paragraph">
-        <strong>Drawing Overload</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@miphotography">Miesha Maiden</a>.
+        <strong>The Generational Dream (Work In Progress)</strong> is my newest creation, I'm currently working on the project alone.
+        <br/>This was inspired by JPRGs in general and specifically "Octopath Traveller".
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
+        <img src="img/projects/TGDsnippet.gif" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
-        Main features :
+        Main features in the game :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Turn based combat with a speed system</li>
+        <li>Boost system</li>
+        <li>Stances, which empower each special ability</li>
+        <li>Enemy weaknesses with durability</li>
+        <li>Dynamic camera</li>
+
         </ul>
-    </div>
-
-    <div class="paragraph">
-        <div class="notice">
-        Playable in the browser (WebGL) on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code is available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
-
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
-    </div>
-    `, "#383838"),
+    </div>`, "#383838"),
     //new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
     //<div class="paragraph">
     //<strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.

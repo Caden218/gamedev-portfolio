@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\public",
-    "\\public\\d",
     "\\public\\img",
+    "\\public\\img\\projects",
     "\\src",
     "\\src\\components",
     "\\src\\css",
@@ -11,6 +11,6 @@
     "\\src\\router",
     "\\src\\views"
   ],
-  "SelectedNode": "\\public\\index.html",
+  "SelectedNode": "\\deploy.sh",
   "PreviewInSolutionExplorer": false
 }
