@@ -1,33 +1,34 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-1", "Optimistic Chubby", "img/projects/project-1-icon.png", 
+    new ProjectData("project-1", "The 7th Seal", "img/projects/snippetboi.gif", 
     `
     <div class="paragraph">
-     <strong>Optimistic Chubby</strong> is a thing of beauty that I am so proud of. It's available on Android because why not.
-     <br/>Image by <a href="https://www.pexels.com/fr-fr/@knownasovan" target="_blank">OVAN</a>.
+     <strong>The 7th Seal</strong> is a strategic turn based card dungeon crawling game with simple mechanics that take time to master.
+     <br/> It is inspired by "Slay the Spire".
     </div>
     <div class="paragraph center">
-        <iframe class="youtube" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="paragraph center">
-        <a href="https://play.google.com/store/apps/details?id=some.playstore.thing" target="_blank"><img src="img/projects/play-store-logo.png" alt="Play Store badge" /></a>
+        <img src="img/projects/snippetboi.gif" frameborder="0" allowfullscreen></iframe>
     </div>
 
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Enemy spawning</li>
+        <li>Turn based combat system</li>
+        <li>Locking cards at turn end</li>
+        <li>Each and every special card passive</li>
+        <li>Randomly generated rooms and map progression</li>
+        <li>Character selection and their individual abilities</li>
+        <li>Cutscenes</li>
+        <li>Shop</li>
+        <li>Rest stops which act as save points</li>
+        <li>Boss mechanics</li>
+        <li>And finally the newly added burn/discard mechanic</li>
+
         </ul>
     </div>
 
-    <div class="paragraph center">
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-        <img class="phone-screenshot" src="https://fakeimg.pl/300x534/" alt="Optimistic Chubby Screenshot" />
-    </div>
     `, "#23bd69", true),
     new ProjectData("project-2", "Singing Addict", "img/projects/project-2-icon.png", `
     <div class="paragraph">
@@ -41,10 +42,17 @@ export default [
     <div class="paragraph">
         Main features :
         <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
+        <li>Enemy spawning</li>
+        <li>Turn based combat system</li>
+        <li>Locking cards at turn end</li>
+        <li>Each and every special card passive</li>
+        <li>Randomly generated rooms and map progression</li>
+        <li>Character selection and their individual abilities</li>
+        <li>Cutscenes</li>
+        <li>Shop</li>
+        <li>Rest stops which act as save points</li>
+        <li>Boss mechanics</li>
+        <li>And finally the newly added burn/discard mechanic</li>
         </ul>
     </div>
 
@@ -95,59 +103,59 @@ export default [
         <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Drawing Overload Screenshot" />
     </div>
     `, "#383838"),
-    new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
-    <div class="paragraph">
-    <strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
-    </div>
+    //new ProjectData("project-4", "Eugeneable", "img/projects/project-4-icon.png", `
+    //<div class="paragraph">
+    //<strong>Eugeneable</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
+    //<br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@neo8iam">NEOSiAM 2020</a>.
+    //</div>
     
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
+    //<div class="paragraph">
+    //    Main features :
+    //    <ul>
+    //    <li>Some stuff</li>
+    //    <li>Some great stuff</li>
+    //    <li>More awesome stuff</li>
+    //    <li>And then some</li>
+    //    </ul>
+    //</div>
 
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        </div>
-    </div>
+    //<div class="paragraph">
+    //    <div class="notice">
+    //    Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
+    //    </div>
+    //</div>
 
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
-    </div>
-    `, "#e80fb7"),
-    new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
-    <div class="paragraph">
-        <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
-        <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
-    </div>
+    //<div class="paragraph center">
+    //    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+    //    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Eugeneable Screenshot" />
+    //</div>
+    //`, "#e80fb7"),
+    //new ProjectData("project-5", "Cloud Drew Land", "img/projects/project-5-icon.png", `
+    //<div class="paragraph">
+    //    <strong>Cloud Drew Land</strong> is a thing of beauty that I am so proud of. I could write about it for hours.
+    //    <br/>Image by <a target="_blank" href="https://www.pexels.com/fr-fr/@cottonbro">cottonbro</a>.
+    //</div>
     
-    <div class="paragraph">
-        Main features :
-        <ul>
-        <li>Some stuff</li>
-        <li>Some great stuff</li>
-        <li>More awesome stuff</li>
-        <li>And then some</li>
-        </ul>
-    </div>
+    //<div class="paragraph">
+    //    Main features :
+    //    <ul>
+    //    <li>Some stuff</li>
+    //    <li>Some great stuff</li>
+    //    <li>More awesome stuff</li>
+    //    <li>And then some</li>
+    //    </ul>
+    //</div>
 
-    <div class="paragraph">
-        <div class="notice">
-        Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
-        Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
-        </div>
-    </div>
+    //<div class="paragraph">
+    //    <div class="notice">
+    //    Windows build available on <a href="https://some.where/nice" target="_blank">itch.io</a>.
+    //    Source code available on <a href="https://github.com/yourself" target="_blank">GitHub</a>.
+    //    </div>
+    //</div>
 
-    <div class="paragraph center">
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-        <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
-    </div>`, "#e48246")
+    //<div class="paragraph center">
+    //    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+    //    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+    //    <img class="pc-screenshot" src="https://fakeimg.pl/534x300/" alt="Cloud Drew Land Screenshot" />
+    //</div>`, "#e48246")
 ];

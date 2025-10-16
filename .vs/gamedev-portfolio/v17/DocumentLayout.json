@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\GameProjectsData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\GameProjectsData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\ProjectsList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProjectsList.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\ProjectDetailsOverlay.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProjectDetailsOverlay.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\SkillRate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\SkillRate.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\css\\projects.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\css\\projects.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\css\\variables.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\css\\variables.less||{28C69EDA-EDF9-4CA8-9EBE-443348B6D916}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\OtherProjectsData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\OtherProjectsData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\ProjectData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\data\\ProjectData.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\router\\index.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\helpers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\helpers.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\Header.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Header.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\sammieicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\sammieicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\About.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\About.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\404.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\404.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Resume.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\Resume.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\OtherProjects.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\OtherProjects.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\shims-tsx.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\shims-tsx.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\shims-vue.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\shims-vue.d.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.browserslistrc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.browserslistrc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.eslintrc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.eslintrc.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LICENSE||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\GameProjects.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\GameProjects.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Contact.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\Contact.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\avatar-og.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\img\\avatar-og.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\sammieicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\img\\sammieicon.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\Footer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Footer.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\avatar.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\img\\avatar.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\resume-photo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\img\\resume-photo.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\d\\some-file.pdf||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\d\\some-file.pdf||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SkillRate.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\SkillRate.vue",
+              "RelativeDocumentMoniker": "src\\components\\SkillRate.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\SkillRate.vue",
+              "RelativeToolTip": "src\\components\\SkillRate.vue",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-16T11:40:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "variables.less",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\css\\variables.less",
+              "RelativeDocumentMoniker": "src\\css\\variables.less",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\css\\variables.less",
+              "RelativeToolTip": "src\\css\\variables.less",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2025-10-16T11:40:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OtherProjectsData.ts",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\OtherProjectsData.ts",
+              "RelativeDocumentMoniker": "src\\data\\OtherProjectsData.ts",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\OtherProjectsData.ts",
+              "RelativeToolTip": "src\\data\\OtherProjectsData.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-16T11:40:10.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "sammieicon.ico -  [English (United States)] - Icon [29x32, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\sammieicon.ico",
+              "RelativeDocumentMoniker": "public\\sammieicon.ico",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\sammieicon.ico -  [English (United States)] - Icon [29x32, 32 bit, BMP]",
+              "RelativeToolTip": "public\\sammieicon.ico -  [English (United States)] - Icon [29x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-10-16T11:37:04.863Z",
+              "EditorCaption": " -  [English (United States)] - Icon [29x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameProjectsData.ts",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\GameProjectsData.ts",
+              "RelativeDocumentMoniker": "src\\data\\GameProjectsData.ts",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\GameProjectsData.ts",
+              "RelativeToolTip": "src\\data\\GameProjectsData.ts",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAJ8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T22:00:50.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectData.ts",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\ProjectData.ts",
+              "RelativeDocumentMoniker": "src\\data\\ProjectData.ts",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\ProjectData.ts",
+              "RelativeToolTip": "src\\data\\ProjectData.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T22:00:34.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "404.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\404.vue",
+              "RelativeDocumentMoniker": "src\\views\\404.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\404.vue",
+              "RelativeToolTip": "src\\views\\404.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T22:00:25.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "helpers.ts",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\helpers.ts",
+              "RelativeDocumentMoniker": "src\\helpers.ts",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\helpers.ts",
+              "RelativeToolTip": "src\\helpers.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T21:57:02.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "shims-tsx.d.ts",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\shims-tsx.d.ts",
+              "RelativeDocumentMoniker": "src\\shims-tsx.d.ts",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\shims-tsx.d.ts",
+              "RelativeToolTip": "src\\shims-tsx.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T21:56:53.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "shims-vue.d.ts",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\shims-vue.d.ts",
+              "RelativeDocumentMoniker": "src\\shims-vue.d.ts",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\shims-vue.d.ts",
+              "RelativeToolTip": "src\\shims-vue.d.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T21:56:51.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T21:56:10.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T21:56:09.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "LICENSE",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\LICENSE",
+              "RelativeDocumentMoniker": "LICENSE",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\LICENSE",
+              "RelativeToolTip": "LICENSE",
+              "ViewState": "AQIAANkBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T21:56:01.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T21:55:56.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": ".eslintrc.js",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.eslintrc.js",
+              "RelativeDocumentMoniker": ".eslintrc.js",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.eslintrc.js",
+              "RelativeToolTip": ".eslintrc.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-10-15T21:55:49.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T21:55:27.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": ".browserslistrc",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.browserslistrc",
+              "RelativeDocumentMoniker": ".browserslistrc",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.browserslistrc",
+              "RelativeToolTip": ".browserslistrc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-15T21:55:26.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\main.ts",
+              "RelativeDocumentMoniker": "src\\main.ts",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\main.ts",
+              "RelativeToolTip": "src\\main.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T21:55:20.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "index.ts",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\router\\index.ts",
+              "RelativeDocumentMoniker": "src\\router\\index.ts",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\router\\index.ts",
+              "RelativeToolTip": "src\\router\\index.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-15T21:54:18.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "sammieicon.png",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\sammieicon.png",
+              "RelativeDocumentMoniker": "public\\img\\sammieicon.png",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\sammieicon.png",
+              "RelativeToolTip": "public\\img\\sammieicon.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-15T21:51:32.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OtherProjects.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\OtherProjects.vue",
+              "RelativeDocumentMoniker": "src\\views\\OtherProjects.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\OtherProjects.vue",
+              "RelativeToolTip": "src\\views\\OtherProjects.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T21:50:32.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GameProjects.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\GameProjects.vue",
+              "RelativeDocumentMoniker": "src\\views\\GameProjects.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\GameProjects.vue",
+              "RelativeToolTip": "src\\views\\GameProjects.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T21:49:54.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "projects.less",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\css\\projects.less",
+              "RelativeDocumentMoniker": "src\\css\\projects.less",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\css\\projects.less",
+              "RelativeToolTip": "src\\css\\projects.less",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001682|",
+              "WhenOpened": "2025-10-15T21:49:47.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectsList.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\ProjectsList.vue",
+              "RelativeDocumentMoniker": "src\\components\\ProjectsList.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\ProjectsList.vue",
+              "RelativeToolTip": "src\\components\\ProjectsList.vue",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T21:49:35.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectDetailsOverlay.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\ProjectDetailsOverlay.vue",
+              "RelativeDocumentMoniker": "src\\components\\ProjectDetailsOverlay.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\ProjectDetailsOverlay.vue",
+              "RelativeToolTip": "src\\components\\ProjectDetailsOverlay.vue",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T21:49:22.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Header.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\Header.vue",
+              "RelativeDocumentMoniker": "src\\components\\Header.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\Header.vue",
+              "RelativeToolTip": "src\\components\\Header.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T21:48:42.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Contact.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Contact.vue",
+              "RelativeDocumentMoniker": "src\\views\\Contact.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Contact.vue",
+              "RelativeToolTip": "src\\views\\Contact.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T21:42:36.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "About.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\About.vue",
+              "RelativeDocumentMoniker": "src\\views\\About.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\About.vue",
+              "RelativeToolTip": "src\\views\\About.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAADmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T21:25:15.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Footer.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\Footer.vue",
+              "RelativeDocumentMoniker": "src\\components\\Footer.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\Footer.vue",
+              "RelativeToolTip": "src\\components\\Footer.vue",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAQAAACcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T20:42:09.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "some-file.pdf",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\d\\some-file.pdf",
+              "RelativeDocumentMoniker": "public\\d\\some-file.pdf",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\d\\some-file.pdf",
+              "RelativeToolTip": "public\\d\\some-file.pdf",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF2SURBVDhPnVM7SwNhEJwvXB4o5CJqfCQhiiBiNKSy0MZOBO0ELbWyEgQ7CzvBzv8giI2lICEQKzFYSTCiWNnYKBKRSy6bwFjInXe5PNCBbfYxO7v7fYokAKAeUREEgg8cjQtaQH28hRmO7ATuX05tH0CQPybDPYVK4frLMAy2ssrtDWWkty46Nq0aklAOBay/Gs6mHqhSEdra8ic\u002By4v\u002BMu8AwNec1AlMpdE4v9ShaReWry2BL5\u002BFfyYJXz7r8jOVBhqN2K/D2oEO18wyFGL1KkcZH/DsQ3TQqmurgEsr8G1tgOlMc8iF9gSJJBCLA6FQc8iNdiPU5mdpPD1SokHW5qYpUzGahweeETwE5v4eZSpGSeiUaJCiw96DJPTuBDIYYPUqx9pYv63GPD6iJPtorq92J6ienVASOs3dbc/2LXMS/OklWvCP9sJfpoLrCppmqFLRmdcSqlQENM3u5FSQQXTohhOTHe\u002Bmnh8reH9bsP6CTfBffAPMC3DFi\u002BYoKwAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-10-15T20:41:56.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "resume-photo.png",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\resume-photo.png",
+              "RelativeDocumentMoniker": "public\\img\\resume-photo.png",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\resume-photo.png",
+              "RelativeToolTip": "public\\img\\resume-photo.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-15T20:41:52.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "avatar.png",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\avatar.png",
+              "RelativeDocumentMoniker": "public\\img\\avatar.png",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\avatar.png",
+              "RelativeToolTip": "public\\img\\avatar.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-15T20:41:50.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "avatar-og.png",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\avatar-og.png",
+              "RelativeDocumentMoniker": "public\\img\\avatar-og.png",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\avatar-og.png",
+              "RelativeToolTip": "public\\img\\avatar-og.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-10-15T20:41:46.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\favicon.ico",
+              "RelativeDocumentMoniker": "public\\favicon.ico",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "RelativeToolTip": "public\\favicon.ico -  [English (United States)] - Icon [16x16, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-10-15T20:41:39.591Z",
+              "EditorCaption": " -  [English (United States)] - Icon [16x16, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\index.html",
+              "RelativeDocumentMoniker": "public\\index.html",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\index.html",
+              "RelativeToolTip": "public\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-15T20:41:18.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Resume.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Resume.vue",
+              "RelativeDocumentMoniker": "src\\views\\Resume.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Resume.vue",
+              "RelativeToolTip": "src\\views\\Resume.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T20:41:01.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\App.vue",
+              "RelativeDocumentMoniker": "src\\App.vue",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\App.vue",
+              "RelativeToolTip": "src\\App.vue",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-10-15T20:06:36.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-15T20:06:24.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

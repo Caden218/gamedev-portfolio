@@ -4,17 +4,17 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        Yo! I'm <strong>Adler Teh</strong>, I use to study computer science before majoring into Game Development.<br/>
+        I spend my days playing games, watching anime and occasionally going bouldering or playing volleyball.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">7th Seal</router-link> and on <router-link to="/game-projects">Rapture Reign</router-link>, and have a few other <router-link to="/game-projects">projects</router-link> as well.</div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">I'm <strong>currently looking for an internship/job</strong> as a gameplay programmer starting January. You can reach me at <a href="mailto:adlertzx@gmail.com">adlertzx@gmail.com</a> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/SmolImage2.jpg" alt="That's me!'" /> 
     </div>
 
     <div style="clear:both"></div>
@@ -29,7 +29,7 @@
 }
 
 .photo {
-  margin-top: 50px;
+  margin-top: -70px;
   text-align: center;
 }
 
@@ -39,9 +39,11 @@
   }
 
   .photo {
-    float: left;
-    padding: 10px;
-    padding-left: 80px;
+    float: right;
+    padding: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
   }
 }
 
