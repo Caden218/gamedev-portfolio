@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\deploy.bat||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:deploy.bat||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\deploy.sh||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:deploy.sh||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\vue.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vue.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Resume.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -159,12 +167,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "deploy.bat",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\deploy.bat",
+              "RelativeDocumentMoniker": "deploy.bat",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\deploy.bat",
+              "RelativeToolTip": "deploy.bat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE8SURBVDhPvZJNSwJRGIWfmcaQiH6DEdEHFBEFBe6KoKKoTf8iAlOmgdbipqBf0rKICAuDkj4WERgulL5o06gLx9S53lZJzrVQgh54uXDOuefdvPAXpJReqW00y4xkQAa8RmtoWb2dz4tLKw0vyACWGZaVSkWZ48SVPDpLKvr3scyw1BtWAPfpLIenl9i5PO92jv2DODd3KW\u002BsjlJg6DqOU2JidIjJsWGckoNhKLE6iuMKQbVaQdQENSFwq1VcV3hjdZSCcrmMBsTPk5wkLtA0SF7f4pQ\u002BvFFoVjA\u002BMsja8hw93V0IV/D69sLj8xOx3T1SD2lvXC34YnVhlvmZIIV8gei2Sd628fs7vbGfCwCKRQdDh/VQBJ\u002Bvo\u002Bnl/low0N/HVmiD4PQUO7EovQH15jTL3MyApjotIbNe5f/5BEiOoURWS5r0AAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-10-16T23:58:39.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-16T23:45:06.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "deploy.sh",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\deploy.sh",
               "RelativeDocumentMoniker": "deploy.sh",
               "ToolTip": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\deploy.sh",
               "RelativeToolTip": "deploy.sh",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
               "WhenOpened": "2025-10-16T23:18:46.642Z",
               "EditorCaption": ""
@@ -179,11 +213,12 @@
               "RelativeToolTip": "vue.config.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-10-16T23:13:19.413Z"
+              "WhenOpened": "2025-10-16T23:13:19.413Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "SkillRate.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\SkillRate.vue",
               "RelativeDocumentMoniker": "src\\components\\SkillRate.vue",
@@ -195,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "variables.less",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\css\\variables.less",
               "RelativeDocumentMoniker": "src\\css\\variables.less",
@@ -207,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "OtherProjectsData.ts",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\OtherProjectsData.ts",
               "RelativeDocumentMoniker": "src\\data\\OtherProjectsData.ts",
@@ -219,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "sammieicon.ico -  [English (United States)] - Icon [29x32, 32 bit, BMP]",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\sammieicon.ico",
               "RelativeDocumentMoniker": "public\\sammieicon.ico",
@@ -231,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "GameProjectsData.ts",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\GameProjectsData.ts",
               "RelativeDocumentMoniker": "src\\data\\GameProjectsData.ts",
@@ -243,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "ProjectData.ts",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\data\\ProjectData.ts",
               "RelativeDocumentMoniker": "src\\data\\ProjectData.ts",
@@ -255,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "404.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\404.vue",
               "RelativeDocumentMoniker": "src\\views\\404.vue",
@@ -267,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "helpers.ts",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\helpers.ts",
               "RelativeDocumentMoniker": "src\\helpers.ts",
@@ -279,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "shims-tsx.d.ts",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\shims-tsx.d.ts",
               "RelativeDocumentMoniker": "src\\shims-tsx.d.ts",
@@ -291,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "shims-vue.d.ts",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\shims-vue.d.ts",
               "RelativeDocumentMoniker": "src\\shims-vue.d.ts",
@@ -303,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "tsconfig.json",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\tsconfig.json",
               "RelativeDocumentMoniker": "tsconfig.json",
@@ -315,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "package-lock.json",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\package-lock.json",
               "RelativeDocumentMoniker": "package-lock.json",
@@ -327,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "LICENSE",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\LICENSE",
               "RelativeDocumentMoniker": "LICENSE",
@@ -339,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -347,12 +382,11 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-15T21:55:56.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T21:55:56.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": ".eslintrc.js",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.eslintrc.js",
               "RelativeDocumentMoniker": ".eslintrc.js",
@@ -364,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -376,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": ".browserslistrc",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\.browserslistrc",
               "RelativeDocumentMoniker": ".browserslistrc",
@@ -388,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "main.ts",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\main.ts",
               "RelativeDocumentMoniker": "src\\main.ts",
@@ -400,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "index.ts",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\router\\index.ts",
               "RelativeDocumentMoniker": "src\\router\\index.ts",
@@ -412,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "sammieicon.png",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\img\\sammieicon.png",
               "RelativeDocumentMoniker": "public\\img\\sammieicon.png",
@@ -423,7 +457,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "OtherProjects.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\OtherProjects.vue",
               "RelativeDocumentMoniker": "src\\views\\OtherProjects.vue",
@@ -435,7 +469,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "GameProjects.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\GameProjects.vue",
               "RelativeDocumentMoniker": "src\\views\\GameProjects.vue",
@@ -447,7 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "projects.less",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\css\\projects.less",
               "RelativeDocumentMoniker": "src\\css\\projects.less",
@@ -459,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ProjectsList.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\ProjectsList.vue",
               "RelativeDocumentMoniker": "src\\components\\ProjectsList.vue",
@@ -471,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ProjectDetailsOverlay.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\ProjectDetailsOverlay.vue",
               "RelativeDocumentMoniker": "src\\components\\ProjectDetailsOverlay.vue",
@@ -483,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Header.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\Header.vue",
               "RelativeDocumentMoniker": "src\\components\\Header.vue",
@@ -495,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Contact.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Contact.vue",
               "RelativeDocumentMoniker": "src\\views\\Contact.vue",
@@ -507,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "About.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\About.vue",
               "RelativeDocumentMoniker": "src\\views\\About.vue",
@@ -519,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Footer.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\components\\Footer.vue",
               "RelativeDocumentMoniker": "src\\components\\Footer.vue",
@@ -531,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "some-file.pdf",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\d\\some-file.pdf",
               "RelativeDocumentMoniker": "public\\d\\some-file.pdf",
@@ -543,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\public\\index.html",
               "RelativeDocumentMoniker": "public\\index.html",
@@ -555,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Resume.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\views\\Resume.vue",
               "RelativeDocumentMoniker": "src\\views\\Resume.vue",
@@ -567,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "App.vue",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\src\\App.vue",
               "RelativeDocumentMoniker": "src\\App.vue",
@@ -579,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Owner\\Documents\\GitHub\\gamedev-portfolio\\README.md",
               "RelativeDocumentMoniker": "README.md",
